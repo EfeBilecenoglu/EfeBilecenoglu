@@ -1,5 +1,5 @@
 ## Hi there 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=EfeBilecenoglu.EfeBilecenoglu)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=EfeBilecenoglu.EfeBilecenoglu-badge)
 <!--
 **EfeBilecenoglu/EfeBilecenoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
