@@ -2,6 +2,7 @@
 In my 8 year career in the Defense Industry, I worked like a real Role-Play character. 
 Now, I want to open a new chapter in my career and contribute to the game development world with my technical knowledge and creativity.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EfeBilecenoglu&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=EfeBilecenoglu.EfeBilecenoglu)
 <!--
 **EfeBilecenoglu/EfeBilecenoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
