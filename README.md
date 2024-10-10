@@ -1,6 +1,7 @@
 ## Hi there, I'm Efe 👋
 In my 8 year career in the Defense Industry, I worked like a real Role-Play character. 
 Now, I want to open a new chapter in my career and contribute to the game development world with my technical knowledge and creativity.
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=EfeBilecenoglu.EfeBilecenoglu)
 <!--
 **EfeBilecenoglu/EfeBilecenoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
